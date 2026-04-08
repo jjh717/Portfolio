@@ -18,7 +18,9 @@
 - 카테고리 (패키지/항공/국내숙소) 별 핵심 비즈니스 이슈를 해결하고 Incremental GMV 확보
 - 최적의 최초 및 재진입점 도출
 
-📌 [상세 보기](https://ginger-paw-ca6.notion.site/33c7bde292eb80caa634e0dfb6d498bd)
+| 스크린샷 | 시연영상 |
+|:---:|:---:|
+| <img src="assets/00_라이브커머스/IMG_2712.PNG" width="300"/> | [▶ 시연영상](assets/00_라이브커머스/ScreenRecording_04-08-2026%2022-31-15_1%20(1).mp4) |
 
 ---
 
