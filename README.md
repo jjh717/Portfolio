@@ -123,19 +123,19 @@ A/B 테스트를 통한 UX 개선 실험
 **1) 위로 스크롤 시 UICollectionView가 올라오는 인터랙션**
 
 <p align="center">
-  <img src="assets/06_지그재그_클론코딩/1.webp" width="300"/>
+  <img src="assets/06_지그재그_클론코딩/1.webp" width="450"/>
 </p>
 
 **2) UICollectionView 영역에서 위로 스크롤 시 Scroll indicator 표시**
 
 <p align="center">
-  <img src="assets/06_지그재그_클론코딩/2.webp" width="500"/>
+  <img src="assets/06_지그재그_클론코딩/2.webp" width="700"/>
 </p>
 
 **3) 아래로 스크롤 시 Bounce 처리 + Scroll indicator**
 
 <p align="center">
-  <img src="assets/06_지그재그_클론코딩/3.webp" width="500"/>
+  <img src="assets/06_지그재그_클론코딩/3.webp" width="700"/>
 </p>
 
 **4) 마지막까지 스크롤 시 새로운 데이터 추가 (Infinite Scroll)**
