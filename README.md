@@ -119,20 +119,29 @@ A/B 테스트를 통한 UX 개선 실험
 | **사용기술** | UICollectionViewCompositionalLayout, UICollectionViewDiffableDataSource |
 
 **UI 구성:**
-- 화면 어디서든 위로 스크롤 시 UICollectionView가 올라오는 인터랙션
-- UICollectionView 영역에서 위로 스크롤 시 Scroll indicator 표시
-- UICollectionView 영역에서 아래로 스크롤 시 Bounce 처리
-- 마지막까지 스크롤 시 새로운 데이터 추가 (Infinite Scroll)
+
+**1) 위로 스크롤 시 UICollectionView가 올라오는 인터랙션**
 
 <p align="center">
-  <img src="assets/06_지그재그_클론코딩/1.webp" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="assets/06_지그재그_클론코딩/2.webp" width="45%"/>
+  <img src="assets/06_지그재그_클론코딩/1.webp" width="300"/>
 </p>
+
+**2) UICollectionView 영역에서 위로 스크롤 시 Scroll indicator 표시**
+
 <p align="center">
-  <img src="assets/06_지그재그_클론코딩/3.webp" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="assets/06_지그재그_클론코딩/4.webp" width="22%"/>
+  <img src="assets/06_지그재그_클론코딩/2.webp" width="500"/>
+</p>
+
+**3) 아래로 스크롤 시 Bounce 처리 + Scroll indicator**
+
+<p align="center">
+  <img src="assets/06_지그재그_클론코딩/3.webp" width="500"/>
+</p>
+
+**4) 마지막까지 스크롤 시 새로운 데이터 추가 (Infinite Scroll)**
+
+<p align="center">
+  <img src="assets/06_지그재그_클론코딩/4.webp" width="250"/>
 </p>
 
 [▶ 시연영상](assets/06_지그재그_클론코딩/RPReplay_Final1666791690_(1).mp4)
