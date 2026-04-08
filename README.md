@@ -124,9 +124,10 @@ A/B 테스트를 통한 UX 개선 실험
 - UICollectionView 영역에서 아래로 스크롤 시 Bounce 처리
 - 마지막까지 스크롤 시 새로운 데이터 추가 (Infinite Scroll)
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="assets/06_지그재그_클론코딩/1.webp" width="200"/> | <img src="assets/06_지그재그_클론코딩/2.webp" width="200"/> | <img src="assets/06_지그재그_클론코딩/3.webp" width="200"/> | <img src="assets/06_지그재그_클론코딩/4.webp" width="200"/> |
+| | |
+|:---:|:---:|
+| <img src="assets/06_지그재그_클론코딩/1.webp" width="400"/> | <img src="assets/06_지그재그_클론코딩/2.webp" width="400"/> |
+| <img src="assets/06_지그재그_클론코딩/3.webp" width="400"/> | <img src="assets/06_지그재그_클론코딩/4.webp" width="400"/> |
 
 [▶ 시연영상](assets/06_지그재그_클론코딩/RPReplay_Final1666791690_(1).mp4)
 
